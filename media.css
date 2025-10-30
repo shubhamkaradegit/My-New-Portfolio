@@ -1,0 +1,72 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    header{
+        max-width: 100%;
+    }
+    body{
+        max-width: 100%;
+    }
+    .header-btn{
+        gap:6px;
+    }
+    .logo {
+    width: 236px;
+    height: 66px;
+    }
+    .header-btn button {
+         padding: 10px 6px;
+         font-size:11px;
+     }
+    .my-info h2 {
+    font-size: 19px;
+    }
+
+    .my-info p {
+    margin: 0px 15%;
+    font-size: 13px;
+    margin-bottom: 55px;
+    }
+
+    .skills h2{
+        font-size:19px;
+        margin: 0;
+    }
+
+    .skills ul{
+        gap:10px;
+        margin-bottom: 20px;
+    }
+
+    .skills ul li{
+        font-size:15px;
+        margin: 0px 0;
+        padding: 7px 12px;
+    }
+    .skills-img{
+        gap:2px;
+    }
+
+    .progress {
+    width: 90%;
+    }
+
+    .project-row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+        .contact-form {
+        width: 60%;
+        padding-right: 15px;
+    }
+    hr{
+    width:100%;
+    margin: 0 auto;
+
+
+}
+
+@media only screen and (min-width:576px) and (max-width:991px){
+
+}
